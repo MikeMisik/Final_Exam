@@ -1,0 +1,15 @@
+/Users/Mac/C#_Examples/Final_Exam/bin/Debug/net7.0/Final_Exam
+/Users/Mac/C#_Examples/Final_Exam/bin/Debug/net7.0/Final_Exam.deps.json
+/Users/Mac/C#_Examples/Final_Exam/bin/Debug/net7.0/Final_Exam.runtimeconfig.json
+/Users/Mac/C#_Examples/Final_Exam/bin/Debug/net7.0/Final_Exam.dll
+/Users/Mac/C#_Examples/Final_Exam/bin/Debug/net7.0/Final_Exam.pdb
+/Users/Mac/C#_Examples/Final_Exam/obj/Debug/net7.0/Final_Exam.csproj.AssemblyReference.cache
+/Users/Mac/C#_Examples/Final_Exam/obj/Debug/net7.0/Final_Exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mac/C#_Examples/Final_Exam/obj/Debug/net7.0/Final_Exam.AssemblyInfoInputs.cache
+/Users/Mac/C#_Examples/Final_Exam/obj/Debug/net7.0/Final_Exam.AssemblyInfo.cs
+/Users/Mac/C#_Examples/Final_Exam/obj/Debug/net7.0/Final_Exam.csproj.CoreCompileInputs.cache
+/Users/Mac/C#_Examples/Final_Exam/obj/Debug/net7.0/Final_Exam.dll
+/Users/Mac/C#_Examples/Final_Exam/obj/Debug/net7.0/refint/Final_Exam.dll
+/Users/Mac/C#_Examples/Final_Exam/obj/Debug/net7.0/Final_Exam.pdb
+/Users/Mac/C#_Examples/Final_Exam/obj/Debug/net7.0/Final_Exam.genruntimeconfig.cache
+/Users/Mac/C#_Examples/Final_Exam/obj/Debug/net7.0/ref/Final_Exam.dll
